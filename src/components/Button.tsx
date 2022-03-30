@@ -1,9 +1,7 @@
 import styled from "styled-components";
-
 export interface ButtonProps {
   primary?: boolean
 }
-
 
 export const Button = styled.button<ButtonProps>`
   /* Adapt the colors based on primary prop */
