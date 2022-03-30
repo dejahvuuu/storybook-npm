@@ -1,5 +1,5 @@
 {
-  "name": "storybook-npm-fork",
+  "name": "storybook-npm-forkthree",
   "version": "0.1.0",
   "files": [
     "dist"
@@ -70,6 +70,7 @@
     "@storybook/addon-essentials": "^6.4.19",
     "@storybook/addon-interactions": "^6.4.19",
     "@storybook/addon-links": "^6.4.19",
+    "@storybook/addons": "^6.4.19",
     "@storybook/builder-webpack5": "^6.4.19",
     "@storybook/manager-webpack5": "^6.4.19",
     "@storybook/node-logger": "^6.4.19",
